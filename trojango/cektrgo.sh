@@ -61,6 +61,6 @@ oth=$(cat /tmp/other.txt | sort | uniq | nl)
 echo "other";
 echo "$oth";
 echo "------------------------------------";
-echo "Script Mod By SL"
+echo "Script Mod By BangsNgek"
 rm -rf /tmp/other.txt
 
