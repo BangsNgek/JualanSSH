@@ -113,5 +113,5 @@ echo -e "Expired  : $exp"
 echo -e "======================="
 echo -e "Link WG  : http://$MYIP:89/$CLIENT_NAME.conf"
 echo -e "======================="
-echo -e "Script Mod By SL"
+echo -e "Script Mod By BangsNgek"
 rm -f /root/wg0-client-$CLIENT_NAME.conf
