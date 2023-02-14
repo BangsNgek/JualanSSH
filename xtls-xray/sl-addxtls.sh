@@ -52,7 +52,7 @@ service cron restart
 clear
 echo -e "================================="
 echo -e "           XRAY XTLS ONLY        " 
-echo -e "Script Create Auto Account by SL "
+echo -e "Script Create Auto Account by BangsNgek "
 echo -e "================================="
 echo -e "Remarks              : ${user}"
 echo -e "Key/Password Trojan  : ${user}"
