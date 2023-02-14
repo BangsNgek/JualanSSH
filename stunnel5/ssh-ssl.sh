@@ -14,7 +14,7 @@ LIGHT='\033[0;37m'
 MYIP=$(wget -qO- ipinfo.io/ip);
 # ==================================================
 # Link Hosting Kalian
-akbarvpn=""raw.githubusercontent.com/fisabiliyusri/Mantap/main/ssh
+akbarvpn="raw.githubusercontent.com/BangsNgek/JualanSSH/main/ssh"
 
 # Link Hosting Kalian Untuk Xray
 akbarvpnn="raw.githubusercontent.com/BangsNgek/JualanSSH/main/xray"
@@ -37,10 +37,10 @@ ver=$VERSION_ID
 country=ID
 state=Indonesia
 locality=Indonesia
-organization=akbarstorevpn
-organizationalunit=akbarstorevpn
-commonname=akbarstorevpn
-email=akbarssh21@gmail.com
+organization=bangsngekvpn
+organizationalunit=bangsngekvpn
+commonname=bangsngekvpn
+email=bangsngek@gmail.com
 
 cd
 
