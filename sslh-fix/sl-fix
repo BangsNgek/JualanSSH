@@ -25,8 +25,8 @@ wget -O restart "https://raw.githubusercontent.com/BangsNgek/JualanSSH/main/ssh/
 cd /usr/bin
 chmod +x sslh-fix-reboot
 chmod +x restart
-chmod +x updatemenu
-chmod +x menu
+# chmod +x updatemenu
+# chmod +x menu
 
 cd /root/
 # nano /etc/rc.local
