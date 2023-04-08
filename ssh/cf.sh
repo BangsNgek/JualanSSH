@@ -26,10 +26,10 @@ clear
 apt install jq curl -y
 ###DOM#AIN=installer.my.id
 DOMAIN=bangsngeks.my.id
-SUB_DOMAIN=sg1.bangsngeks.my.id
-NS_DOMAIN=slowdns-${subsl}.bangsngeks.my.id
+SUB_DOMAIN=server.bangsngeks.my.id
+NS_DOMAIN=ns-server.bangsngeks.my.id
 CF_ID=bangsngek@gmail.com
-CF_KEY=9b8c1ae3cbbe24bcf77b7d0c4b50d60ebb087
+CF_KEY=cc3553fe3564605d47101bdee7f6e2a8eebeb
 ##SUB_DOMAIN=${sub}.installer.my.id
 ##CF_ID=senowahyu62@gmail.com
 ##CF_KEY=84570683099becbeb0f04d8086ce6f309c56c
