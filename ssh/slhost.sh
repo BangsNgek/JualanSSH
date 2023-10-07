@@ -20,9 +20,9 @@ echo "$SUB_DOMAIN" >> /etc/v2ray/domain
 #
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
 subsl=$(</dev/urandom tr -dc a-z0-9 | head -c5)
-DOMAIN=bangsngeks.my.id
-SUB_DOMAIN=server.bangsngeks.my.id
-NS_DOMAIN=ns-server.bangsngeks.my.id
+DOMAIN=bangsngek.com
+SUB_DOMAIN=server.bangsngek.com
+NS_DOMAIN=ns-server.bangsngek.com
 CF_ID=bangsngek@gmail.com
 CF_KEY=cc3553fe3564605d47101bdee7f6e2a8eebeb
 set -euo pipefail
