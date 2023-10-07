@@ -73,7 +73,7 @@ cd
 cat > /etc/systemd/system/server-sldns.service << END
 [Unit]
 Description=Server SlowDNS By BangsNgek
-Documentation=https://nekopoi.care
+Documentation=https://bangsngek.com
 After=network.target nss-lookup.target
 
 [Service]
