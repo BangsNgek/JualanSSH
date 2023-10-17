@@ -26,8 +26,8 @@ clear
 apt install jq curl -y
 ###DOM#AIN=installer.my.id
 DOMAIN=bangsngek.com
-SUB_DOMAIN=server.bangsngek.com
-NS_DOMAIN=ns-server.bangsngek.com
+SUB_DOMAIN=premium.bangsngek.com
+NS_DOMAIN=ns-premium.bangsngek.com
 CF_ID=bangsngek@gmail.com
 CF_KEY=cc3553fe3564605d47101bdee7f6e2a8eebeb
 ##SUB_DOMAIN=${sub}.installer.my.id
