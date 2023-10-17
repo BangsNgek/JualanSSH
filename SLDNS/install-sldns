@@ -53,7 +53,7 @@ cd
 cat > /etc/systemd/system/client-sldns.service << END
 [Unit]
 Description=Client SlowDNS By BangsNgek
-Documentation=https://nekopoi.care
+Documentation=https://bangsngek.com
 After=network.target nss-lookup.target
 
 [Service]
