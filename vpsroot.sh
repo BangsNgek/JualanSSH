@@ -13,6 +13,6 @@ printf "============================================"
 printf "Akun Root (Akun Utama)"
 printf "Username   = root"
 printf "Password   = "$pwe
-============================================
+printf "============================================"
 echo "";
 exit;
