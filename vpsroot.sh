@@ -8,12 +8,11 @@ echo -e "Masukkan Password:";
 read -e pwe;
 usermod -p `perl -e "print crypt("$pwe","Q4")"` root;
 clear;
-printf "Mohon Simpan Informasi Akun VPS Ini
-============================================
-Akun Root (Akun Utama)
-Ip address = $(curl -Ls http://ipinfo.io/ip)
-Username   = root
-Password   = $pwe
+printf "Mohon Simpan Informasi Akun VPS Ini"
+printf "============================================"
+printf "Akun Root (Akun Utama)"
+printf "Username   = root"
+printf "Password   = "$pwe
 ============================================
 echo "";
 exit;
