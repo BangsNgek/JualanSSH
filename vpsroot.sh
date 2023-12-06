@@ -9,10 +9,10 @@ read -e pwe;
 usermod -p `perl -e "print crypt("$pwe","Q4")"` root;
 clear;
 printf "Mohon Simpan Informasi Akun VPS Ini"
-printf "============================================"
-printf "Akun Root (Akun Utama)"
-printf "Username   = root"
-printf "Password   = "$pwe
-printf "============================================"
+printf "============================================\n"
+printf "Akun Root (Akun Utama)\n"
+printf "Username   = root\n"
+printf "Password   = \n"
+printf "============================================\n"
 echo "";
 exit;
